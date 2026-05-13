@@ -1,3 +1,11 @@
+D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.csproj.AssemblyReference.cache
+D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.AssemblyInfoInputs.cache
+D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.AssemblyInfo.cs
+D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.csproj.CoreCompileInputs.cache
+D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.MvcApplicationPartsAssemblyInfo.cs
+D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.sourcelink.json
 D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\bin\Debug\net8.0\appsettings.Development.json
 D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\bin\Debug\net8.0\appsettings.json
 D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\bin\Debug\net8.0\MiniStore.exe
@@ -230,13 +238,6 @@ D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\bin\Debug\net
 D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.csproj.AssemblyReference.cache
-D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.GeneratedMSBuildEditorConfig.editorconfig
-D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.AssemblyInfoInputs.cache
-D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.AssemblyInfo.cs
-D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.csproj.CoreCompileInputs.cache
-D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.MvcApplicationPartsAssemblyInfo.cs
-D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\MiniStore.MvcApplicationPartsAssemblyInfo.cache
 D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\staticwebassets.build.json
 D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\staticwebassets.development.json
 D:\Thuctap\MiniProject_FPT.ThucTap\Backend_Api\MiniStore\MiniStore\obj\Debug\net8.0\staticwebassets\msbuild.MiniStore.Microsoft.AspNetCore.StaticWebAssets.props

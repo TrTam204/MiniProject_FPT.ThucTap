@@ -55,7 +55,7 @@ namespace MiniStore.Services
         }
 
 
-        public async Task<ProductResponseDto> GetByIdAsync(int id)
+        public async Task<ProductResponseDto?> GetByIdAsync(int id)
         {
             var product = await _context.Products.FindAsync(id);
             if (product == null)
@@ -111,5 +111,6 @@ namespace MiniStore.Services
 
             return true;
         }
+
     }
 }

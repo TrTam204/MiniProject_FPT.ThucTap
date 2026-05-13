@@ -1,6 +1,5 @@
 ﻿using MiniStore.DTOs.Product;
 using MiniStore.Models;
-using MiniStore.DTOs.Product;
 
 namespace MiniStore.Services.Interfaces
 {
