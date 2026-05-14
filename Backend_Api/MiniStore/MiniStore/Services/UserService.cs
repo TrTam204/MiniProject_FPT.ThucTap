@@ -9,14 +9,26 @@ namespace MiniStore.Services
     public class UserService : IUserService
     {
         private readonly AppDbContext _context;
-
         public UserService(AppDbContext context)
         {
             _context = context;
         }
-
         public async Task<UserResponseDto> CreateAsync(UserCreateDto dto)
         {
+            var existingUser = await _context.Users
+            .FirstOrDefaultAsync(u => u.Email.ToLower() == dto.Email.ToLower());
+
+            if (existingUser != null)
+            {
+                throw new Exception("Email already exists");
+            }
+            var existingPhone = await _context.Users
+            .FirstOrDefaultAsync(u => u.Phone == dto.Phone);
+
+            if (existingPhone != null)
+            {
+                throw new Exception("Phone already exists");
+            }
             var user = new User
             {
                 FullName = dto.FullName,
@@ -54,7 +66,6 @@ namespace MiniStore.Services
         public async Task<List<UserResponseDto>> GetAllAsync()
         {
             var users = await _context.Users.ToListAsync();
-
             var response = users.Select(user => new UserResponseDto
             {
                 Id = user.Id,
@@ -63,10 +74,8 @@ namespace MiniStore.Services
                 Phone = user.Phone,
                 Address = user.Address,
             }).ToList();
-
             return response;
         }
-
         public async Task<UserResponseDto?> GetByIdAsync(int id)
         {
             var user = await _context.Users.FindAsync(id);
@@ -84,7 +93,6 @@ namespace MiniStore.Services
             };
             return response;
         }
-
         public async Task<UserResponseDto?> UpdateAsync(int id, UserUpdateDto dto)
         {
             var user = await _context.Users.FindAsync(id);
@@ -106,7 +114,6 @@ namespace MiniStore.Services
                 Phone = user.Phone,
                 Address = user.Address
             };
-
             return response;
         }
     }

@@ -3,72 +3,108 @@
   "WorkspaceRootPath": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\dtos\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\dtos\\category\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\category\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\dtos\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\dtos\\category\\categoryreponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\category\\categoryreponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\dtos\\user\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\user\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\dtos\\product\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\product\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\dtos\\product\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\product\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\dtos\\product\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\product\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\dtos\\user\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\user\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\dtos\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\user\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\dtos\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\dtos\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Migrations\\20260514115716_AddCategoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniStore\\Migrations\\20260514115716_AddCategoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|d:\\thuctap\\miniproject_fpt.thuctap\\backend_api\\ministore\\ministore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Migrations\\20260514112020_AddCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniStore\\Migrations\\20260514112020_AddCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\ministore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|solutionrelative:ministore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E62F52E1-980D-4F0D-B684-04EF5D354045}|MiniStore\\MiniStore.csproj|D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Migrations\\20260512102715_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,37 +118,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\ProductService.cs",
+              "RelativeToolTip": "MiniStore\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:22:28.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "MiniStore\\DTOs\\Category\\CategoryCreateDto.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeToolTip": "MiniStore\\DTOs\\Category\\CategoryCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:59:30.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "MiniStore\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "MiniStore\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwAwAAAAzAAAA",
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\CategoryService.cs",
+              "RelativeToolTip": "MiniStore\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAEwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T01:43:12.061Z",
+              "WhenOpened": "2026-05-14T11:50:58.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "MiniStore\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "MiniStore\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwBcAAAAJAAAA",
+              "DocumentIndex": 4,
+              "Title": "CategoryReponseDto.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Category\\CategoryReponseDto.cs",
+              "RelativeDocumentMoniker": "MiniStore\\DTOs\\Category\\CategoryReponseDto.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Category\\CategoryReponseDto.cs",
+              "RelativeToolTip": "MiniStore\\DTOs\\Category\\CategoryReponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T10:21:38.066Z",
+              "WhenOpened": "2026-05-14T12:01:36.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "CategoryUpdateDto.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Category\\CategoryUpdateDto.cs",
+              "RelativeDocumentMoniker": "MiniStore\\DTOs\\Category\\CategoryUpdateDto.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Category\\CategoryUpdateDto.cs",
+              "RelativeToolTip": "MiniStore\\DTOs\\Category\\CategoryUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:00:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IProductService.cs",
               "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "MiniStore\\Services\\Interfaces\\IProductService.cs",
@@ -125,72 +200,241 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "MiniStore\\Services\\UserService.cs",
-              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\UserService.cs",
-              "RelativeToolTip": "MiniStore\\Services\\UserService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAnAAAA",
+              "DocumentIndex": 8,
+              "Title": "ProductResponseDto.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Product\\ProductResponseDto.cs",
+              "RelativeDocumentMoniker": "MiniStore\\DTOs\\Product\\ProductResponseDto.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Product\\ProductResponseDto.cs",
+              "RelativeToolTip": "MiniStore\\DTOs\\Product\\ProductResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T01:59:58.959Z",
+              "WhenOpened": "2026-05-12T10:24:15.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Program.cs",
-              "RelativeDocumentMoniker": "MiniStore\\Program.cs",
-              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Program.cs",
-              "RelativeToolTip": "MiniStore\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "DocumentIndex": 6,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Product\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "MiniStore\\DTOs\\Product\\ProductCreateDto.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Product\\ProductCreateDto.cs",
+              "RelativeToolTip": "MiniStore\\DTOs\\Product\\ProductCreateDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T10:12:21.096Z",
+              "WhenOpened": "2026-05-12T10:24:04.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "MiniStore\\Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "MiniStore\\Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "DocumentIndex": 7,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Product\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "MiniStore\\DTOs\\Product\\ProductUpdateDto.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Product\\ProductUpdateDto.cs",
+              "RelativeToolTip": "MiniStore\\DTOs\\Product\\ProductUpdateDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T10:22:40.548Z",
+              "WhenOpened": "2026-05-12T10:24:20.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\User\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "MiniStore\\DTOs\\User\\UserUpdateDto.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\User\\UserUpdateDto.cs",
+              "RelativeToolTip": "MiniStore\\DTOs\\User\\UserUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T02:06:17.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UserCreateDto.cs",
               "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\User\\UserCreateDto.cs",
               "RelativeDocumentMoniker": "MiniStore\\DTOs\\User\\UserCreateDto.cs",
               "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\User\\UserCreateDto.cs",
               "RelativeToolTip": "MiniStore\\DTOs\\User\\UserCreateDto.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAA5AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T02:04:16.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "UserResponseDto.cs",
               "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\User\\UserResponseDto.cs",
               "RelativeDocumentMoniker": "MiniStore\\DTOs\\User\\UserResponseDto.cs",
               "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\User\\UserResponseDto.cs",
               "RelativeToolTip": "MiniStore\\DTOs\\User\\UserResponseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T02:05:18.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Models\\Product.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Models\\Product.cs",
+              "RelativeToolTip": "MiniStore\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:19:34.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Services\\UserService.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\UserService.cs",
+              "RelativeToolTip": "MiniStore\\Services\\UserService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T01:59:58.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "MiniStore\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAvwAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:50:44.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "MiniStore\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:22:40.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MiniStore\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAIA1wC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T01:43:12.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategorysController.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Controllers\\CategorysController.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Controllers\\CategorysController.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Controllers\\CategorysController.cs",
+              "RelativeToolTip": "MiniStore\\Controllers\\CategorysController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAASwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:51:25.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260514115716_AddCategoryTable.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Migrations\\20260514115716_AddCategoryTable.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Migrations\\20260514115716_AddCategoryTable.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Migrations\\20260514115716_AddCategoryTable.cs",
+              "RelativeToolTip": "MiniStore\\Migrations\\20260514115716_AddCategoryTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:57:16.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Program.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Program.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Program.cs",
+              "RelativeToolTip": "MiniStore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:12:21.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Models\\Category.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Models\\Category.cs",
+              "RelativeToolTip": "MiniStore\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:18:38.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MiniStore\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:21:38.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260514112020_AddCategory.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Migrations\\20260514112020_AddCategory.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Migrations\\20260514112020_AddCategory.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Migrations\\20260514112020_AddCategory.cs",
+              "RelativeToolTip": "MiniStore\\Migrations\\20260514112020_AddCategory.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T11:20:21.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MiniStore\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MiniStore\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:20:34.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Models\\User.cs",
               "RelativeDocumentMoniker": "MiniStore\\Models\\User.cs",
@@ -198,64 +442,11 @@
               "RelativeToolTip": "MiniStore\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T10:20:03.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T10:20:03.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "MiniStore\\Services\\ProductService.cs",
-              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Services\\ProductService.cs",
-              "RelativeToolTip": "MiniStore\\Services\\ProductService.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAkwGIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T10:22:28.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductCreateDto.cs",
-              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Product\\ProductCreateDto.cs",
-              "RelativeDocumentMoniker": "MiniStore\\DTOs\\Product\\ProductCreateDto.cs",
-              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Product\\ProductCreateDto.cs",
-              "RelativeToolTip": "MiniStore\\DTOs\\Product\\ProductCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T10:24:04.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserUpdateDto.cs",
-              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\User\\UserUpdateDto.cs",
-              "RelativeDocumentMoniker": "MiniStore\\DTOs\\User\\UserUpdateDto.cs",
-              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\User\\UserUpdateDto.cs",
-              "RelativeToolTip": "MiniStore\\DTOs\\User\\UserUpdateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T02:06:17.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductResponseDto.cs",
-              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Product\\ProductResponseDto.cs",
-              "RelativeDocumentMoniker": "MiniStore\\DTOs\\Product\\ProductResponseDto.cs",
-              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Product\\ProductResponseDto.cs",
-              "RelativeToolTip": "MiniStore\\DTOs\\Product\\ProductResponseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T10:24:15.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\appsettings.json",
               "RelativeDocumentMoniker": "MiniStore\\appsettings.json",
@@ -263,24 +454,11 @@
               "RelativeToolTip": "MiniStore\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-12T10:17:13.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T10:17:13.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductUpdateDto.cs",
-              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Product\\ProductUpdateDto.cs",
-              "RelativeDocumentMoniker": "MiniStore\\DTOs\\Product\\ProductUpdateDto.cs",
-              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\DTOs\\Product\\ProductUpdateDto.cs",
-              "RelativeToolTip": "MiniStore\\DTOs\\Product\\ProductUpdateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T10:24:20.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "20260512102715_Init.cs",
               "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Migrations\\20260512102715_Init.cs",
               "RelativeDocumentMoniker": "MiniStore\\Migrations\\20260512102715_Init.cs",
@@ -289,31 +467,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T10:27:15.783Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MiniStore\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "MiniStore\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T10:20:34.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "MiniStore\\Models\\Product.cs",
-              "ToolTip": "D:\\Thuctap\\MiniProject_FPT.ThucTap\\Backend_Api\\MiniStore\\MiniStore\\Models\\Product.cs",
-              "RelativeToolTip": "MiniStore\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T10:19:34.123Z",
-              "EditorCaption": ""
             }
           ]
         }
