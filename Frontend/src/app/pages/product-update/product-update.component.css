@@ -1,0 +1,90 @@
+.giaodien{
+    min-height:calc(100vh - 70px);
+    padding:40px 20px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:linear-gradient(135deg,#020617,#0f172a,#312e81);
+}
+
+.form-container{
+    width:100%;
+    max-width:700px;
+    padding:40px;
+    border-radius:24px;
+    background:rgba(255,255,255,0.05);
+    border:1px solid rgba(255,255,255,0.08);
+    backdrop-filter:blur(10px);
+    box-shadow:0 10px 40px rgba(0,0,0,0.3);
+}
+
+.form-title{
+    text-align:center;
+    font-size:36px;
+    font-weight:700;
+    color:white;
+    margin-bottom:32px;
+}
+
+.form-control{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    margin-bottom:22px;
+}
+
+.form-control label{
+    color:#e2e8f0;
+    font-size:15px;
+    font-weight:500;
+}
+
+.form-control input,
+.form-control textarea,
+.form-control select{
+    width:100%;
+    padding:14px;
+    border-radius:14px;
+    border:1px solid rgba(255,255,255,0.08);
+    background:rgba(255,255,255,0.06);
+    color:white;
+    outline:none;
+    transition:0.2s;
+}
+
+.form-control input:focus,
+.form-control textarea:focus,
+.form-control select:focus{
+    border:1px solid #38bdf8;
+    box-shadow:0 0 0 3px rgba(56,189,248,0.2);
+}
+
+.form-control textarea{
+    min-height:120px;
+    resize:vertical;
+}
+
+.form-control input::placeholder,
+.form-control textarea::placeholder{
+    color:#94a3b8;
+}
+
+.form-control input[type="file"]{
+    padding:10px;
+    cursor:pointer;
+}
+
+.btn-group{
+    display:flex;
+    justify-content:center;
+    gap:16px;
+    margin-top:30px;
+}
+
+.save-btn{
+    min-width:180px;
+}
+
+.cancel-btn{
+    min-width:140px;
+}

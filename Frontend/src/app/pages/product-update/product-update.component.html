@@ -1,0 +1,88 @@
+<div class="giaodien">
+    <div class="form-container">
+        <div class="form-title">
+            Edit Product
+        </div>
+        <form>
+<form [formGroup]="form" (ngSubmit)="submit()" style="width: 70%; margin: auto;">
+  <div class="form-control">
+    <label for="name">Name</label>
+    <div>
+      <input
+        id="name"
+        type="text"
+        formControlName="name"
+        placeholder="Name"
+      />
+    </div>
+  </div>
+    <div class="form-control">
+    <label for="importprice">Import Price</label>
+    <div>
+      <input
+        id="importprice"
+        type="number"
+        formControlName="importprice"
+        placeholder="Import Price"
+      />
+    </div>
+  </div>
+    <div class="form-control">
+    <label for="sellprice">Sell Price</label>
+    <div>
+      <input
+        id="sellprice"
+        type="number"
+        formControlName="sellprice"
+        placeholder="Sell Price"
+      />
+    </div>
+  </div>
+  <div class="form-control">
+    <label for="imageFile">Chọn ảnh</label>
+    <div>
+        <input
+            id="imageFile"
+            type="file"
+            accept="image/*"
+            (change)="onFileSelected($event)" />
+    </div>
+</div>
+    <div class="form-control">
+        <label for="quantity">Quantity</label>
+        <div>
+          <input
+            id="quantity"
+            type="number"
+            formControlName="quantity"
+            placeholder="Quantity"
+          />
+        </div>
+    </div>
+  <div class="form-control">
+    <label for="description">Description</label>
+    <div>
+      <textarea
+        id="description"
+        formControlName="description"
+        placeholder="Description"
+      ></textarea>
+    </div>
+    </div>
+    <div class="form-control">
+    <label for="categoryId">Category</label>
+    <div>
+      <input
+        id="categoryId"
+        type="number"
+        formControlName="categoryId"
+        placeholder="Category ID"
+      />
+    </div>
+    </div>
+<div class="btn-group">
+  <button type="submit" class="save-btn">Save</button>
+  <button type="button" class="cancel-btn" (click)="cancel()">Cancel</button>
+</div>
+</form>
+

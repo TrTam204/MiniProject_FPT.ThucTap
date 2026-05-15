@@ -1,13 +1,70 @@
-<nav>
+<div class="navbar">
 
-  <a routerLink="/home">Home</a>
+    <div class="navbar-left">
 
-  <a routerLink="/product">Products</a>
+        <div class="logo">
+            MiniStore
+        </div>
 
-  <a routerLink="/cart">Cart</a>
+    </div>
 
-  <a routerLink="/user-info">User</a>
+    <div class="navbar-center">
 
-</nav>
+        <span class="p-input-icon-left search-wrapper">
 
-<hr>
+            <i class="pi pi-search"></i>
+
+            <input
+                pInputText
+                type="text"
+                placeholder="  Tìm sản phẩm..." />
+
+        </span>
+
+    </div>
+
+    <div class="navbar-right">
+
+        <nav class="navbar-menu">
+
+            <a routerLink="/home">
+                Home
+            </a>
+
+            <a routerLink="/product">
+                Products
+            </a>
+
+            <a routerLink="/cart">
+                Cart
+            </a>
+
+            <a routerLink="/user-info">
+                User
+            </a>
+
+        </nav>
+
+        <div class="navbar-actions">
+
+            <button
+                pButton
+                type="button"
+                icon="pi pi-shopping-cart"
+                class="p-button-rounded p-button-text">
+            </button>
+
+            <button
+                pButton
+                type="button"
+                icon="pi pi-user"
+                class="p-button-rounded p-button-text">
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
+
+<router-outlet></router-outlet>

@@ -1,1 +1,64 @@
-<p>products works!</p>
+<h1 style="display: flex; justify-content: center;">DANH SÁCH PRODUCTS</h1>
+<div class="button-navigation">
+    <button routerLink="/product/add" class="btn-addproduct">Add Product</button>
+    <button routerLink="/product/add" class="btn-category">Category</button>
+</div>
+<div class="group-cart">
+<div class="header-cart">
+    <div style="color: #fff;" class="col">Image</div>
+    <div style="color: #fff;" class="col">Name</div>
+    <div style="color: #fff;" class="col">Import Price</div>
+    <div style="color: #fff;" class="col">Sell Price</div>
+    <div style="color: #fff;" class="col">Description</div>
+    <div style="color: #fff;" class="col">Category</div>
+    <div style="color: #fff;" class="col">Quantity</div>
+    <div style="color: #fff;" class="col">Action</div>
+</div>
+   <div class="cart-row" *ngFor="let p of products">
+    <div class="col">
+        <img
+        [src]="p.imageUrl"
+        [alt]="p.name"
+        class="product-image">
+        </div>
+    <div style="color: #fff;" class="col">
+        {{ p.name }}
+    </div>
+    <div style="color: #fff;" class="col">
+        {{ p.importPrice | currency:'VND'}}
+    </div>
+    <div style="color: #fff;"class="col">
+        {{ p.sellPrice| currency:'VND'}}
+    </div>
+    <div style="color: #fff;" class="col">
+        {{ p.description }}
+    </div>
+    <div style="color: #fff;" class="col">
+        {{ p.categoryId }}
+    </div>
+    <div style="color: #fff;" class="col">
+        {{ p.quantity }}
+    </div>
+    <div class="action-buttons">
+
+<div class="action-buttons">
+    <a 
+        pButton 
+        [routerLink]="['/product/edit', p.id]" 
+        label="Edit" 
+        icon="pi pi-pencil" 
+        class="p-button-info custom-edit-btn">
+    </a>
+
+    <button 
+        pButton 
+        type="button" 
+        (click)="delete(p.id)" 
+        label="Delete" 
+        icon="pi pi-trash" 
+        class="p-button-danger custom-delete-btn">
+    </button>
+</div>
+</div>
+</div>
+</div>

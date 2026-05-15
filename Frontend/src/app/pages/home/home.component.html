@@ -1,34 +1,48 @@
 <div class="home-container">
-
-    <h1>Products</h1>
-    <div class="product-grid">
-
-        <div
-            class="product-card"
-            *ngFor="let product of products"
-        >
-
-            <img
-                [src]="product.imageUrl"
-                alt="product image"
-            >
-
-            <h2>
-                {{ product.name }}
-            </h2>
-
-            <p>
-                Giá bán:
-                {{ product.sellPrice }}
-            </p>
-
-            <p>
-                Số lượng:
-                {{ product.quantity }}
-            </p>
-
+    <div class="top-wrapper">
+        <div class="sidebar">
+            <div class="sidebar-title">Danh mục</div>
+            <div
+                class="category-item"
+                *ngFor="let category of categories"
+                (click)="selectCategory(category.id)">
+                <i class="pi pi-tag"></i>
+                <span>{{ category.name }}</span>
+            </div>
         </div>
-
+        <div class="hero-banner">
+            <div class="hero-content">
+                <div class="hero-title">XIN CHÀO</div>
+                <div class="hero-subtitle">MiniStore Angular + ASP.NET Core</div>
+            </div>
+        </div>
     </div>
-
+    <div class="product-section">
+        <div class="product-section-title">SẢN PHẨM</div>
+        <div class="product-list">
+            <p-card
+                *ngFor="let product of filteredProducts"
+                class="product-card"
+                (click)="goToDetail(product.id!)">
+                <ng-template pTemplate="header">
+                    <img
+                        [src]="product.imageUrl"
+                        [alt]="product.name"
+                        class="product-image">
+                </ng-template>
+                <div class="product-content">
+                    <div class="product-name"><strong>{{ product.name }}</strong></div>
+                    <div class="product-price">{{ product.sellPrice | number }} VNĐ</div>
+                    <div class="product-description">{{ product.description }}</div>
+                    <button
+                        pButton
+                        type="button"
+                        icon="pi pi-shopping-cart"
+                        label="Thêm vào giỏ"
+                        class="product-button">
+                    </button>
+                </div>
+            </p-card>
+        </div>
+    </div>
 </div>

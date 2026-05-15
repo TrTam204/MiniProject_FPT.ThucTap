@@ -1,23 +1,21 @@
 import { Routes } from '@angular/router';
 import { HomeComponent } from './pages/home/home.component';
-import { ProductFormComponent } from './pages/product-form/product-form.component';
 import { ProductsComponent } from './pages/products/products.component';
 import { ProductDetailComponent } from './pages/product-detail/product-detail.component';
 import { CartComponent } from './pages/cart/cart.component';
 import { UserInfoComponent } from './pages/user-info/user-info.component';
+import { ProductCreateComponent } from './pages/product-create/product-create.component';
+import { ProductUpdateComponent } from './pages/product-update/product-update.component';
 export const routes: Routes = [
-{path: '', component : HomeComponent},
-{path: 'product', component: ProductsComponent,
-    children:[
-    {path:'', component: ProductsComponent},
-    {path: 'add', component: ProductFormComponent},
-    {path: 'edit/:id', component: ProductFormComponent}
-]
-},
+{path: '', redirectTo: 'home', pathMatch: 'full'},
+{path: 'home', component : HomeComponent},
+{path: 'product', component: ProductsComponent},
+{path: 'product/add', component: ProductCreateComponent},
+{path: 'product/edit/:id', component: ProductUpdateComponent},
 {path:'product-detail/:id', component: ProductDetailComponent},
 {path:'cart', component: CartComponent},
-{path:'product-form', component: ProductFormComponent},
-{path:'product-form/:id', component: ProductFormComponent},
+{path:'product-create', component: ProductCreateComponent},
+{path:'product-update/:id', component: ProductUpdateComponent},
 {path:'user-info', component: UserInfoComponent,
     children:[
         {path: '', component: UserInfoComponent},
@@ -25,6 +23,6 @@ export const routes: Routes = [
         {path: 'edit/:id', component: UserInfoComponent},
         {path: 'add', component: UserInfoComponent}
     ]},
-{path: '**', redirectTo: 'Not Found'}
+{path: '**', redirectTo: 'home'}
 
 ];

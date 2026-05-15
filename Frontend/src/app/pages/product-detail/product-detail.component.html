@@ -1,1 +1,40 @@
-<p>product-detail works!</p>
+<div
+    class="detail-container"
+    *ngIf="product">
+
+    <div class="detail-image">
+
+        <img
+            [src]="product.imageUrl"
+            [alt]="product.name">
+
+    </div>
+
+    <div class="detail-content">
+
+    <div class="detail-info">
+
+        <div class="detail-name">
+        {{ product.name }}
+        </div>
+
+        <div class="detail-price">
+            Giá: {{ product.sellPrice | number }} VNĐ
+        </div>
+
+        <div class="detail-description">
+            Mô tả: {{ product.description }}
+        </div>
+        <div class="detail-description">
+            Số lượng: {{ product.quantity }}
+        </div>
+    </div>
+
+    <button
+        pButton
+        type="button"
+        label="Thêm vào giỏ"
+        icon="pi pi-shopping-cart"
+        class="detail-button">
+    </button>
+</div>
